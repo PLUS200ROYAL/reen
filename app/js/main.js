@@ -24,8 +24,8 @@ $(document).ready(function() {
         navText: '',
         dots: true,
         dotsContainer: '.b-slide-dots',
-        animateOut: 'fadeOut',
-        animateIn: 'fadeIn',
+        animateOut: 'lightSpeedOut',
+        animateIn: 'lightSpeedIn',
         smartSpeed: 500,
         responsiveClass: true,
         responsive:{
